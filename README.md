@@ -1,2 +1,5 @@
-# Docs
-Documentation, regulations, articles, digests and other textual content
+# Документация
+
+Данный репозиторий предназначен для хранения документации, уставов, статей, сборников новостей и прочего текстового контента, необходимого сообществу.
+
+- [Внутренние уставы](Regulations/README.md)
