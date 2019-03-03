@@ -5,3 +5,4 @@
 - [Памятка организатору](Instruction%20to%20organizer.md)
 - [Памятка куратору доклада](Instruction%20to%20curator.md)
 - [Памятка выступающему](Instruction%20to%20speaker.md)
+- [Памятка принимающей стороны](Instruction%20to%20host.md)
