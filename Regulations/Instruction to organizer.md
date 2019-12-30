@@ -1,7 +1,7 @@
 # Памятка организатору
 
 ## Общий таймлайн митапа
-![Общий таймлайн митапа](./Instruction%20to%20organizer%20images/meetup-timeline.jpg)
+![Общий таймлайн митапа](./Instruction%20to%20organizer%20images/meetup-timeline.png)
 
 ## Подготовка к встрече
 
