@@ -102,6 +102,6 @@
 
 - Использовать трёхбуквенное сокращение города в названии сообщества (_Spb_, _Msk_, _Sar_).
 - Использовать корпоративное начертание названия: 3 latin letters, PascalCase, DotNet suffix (_SpbDotNet_, _MskDotNet_, _SarDotNet_).
-- Использовать логотип, подготовленный нашим дизайнером ([Санкт-Петербург](https://dotnet.ru/images/spbdotnet-squared-logo.svg), [Москва](https://dotnet.ru/images/mskdotnet-squared-logo.svg), [Саратов](https://dotnet.ru/images/sardotnet-squared-logo.svg)).
+- Использовать логотип, подготовленный нашим дизайнером ([Санкт-Петербург](https://dotnet.ru/images/spbdotnet-logo-squared.svg), [Москва](https://dotnet.ru/images/mskdotnet-logo-squared.svg), [Саратов](https://dotnet.ru/images/sardotnet-logo-squared.svg)).
 
 Мы сильно вкладываемся в развитие нашего бренда, создаём видеотеку, делаем стенды на крупных конференциях, записываем подкасты. Мы категорически против того чтобы наш стиль использовался кем-то, кто официально не является частью DotNetRu. Ибо это может ввести в заблуждение участников и отразиться на нашей работе.
