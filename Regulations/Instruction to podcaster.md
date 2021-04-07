@@ -37,6 +37,7 @@
 - Игорь Лабутин: [Rode NT-USB](http://rode.ru/nt-usb/),  [MAONO AU-410](https://www.maono.com/products/au410-usb-lavalier-micophone/)
 - Анатолий Кулаков: [MAONO AU-411](https://www.maono.com/products/au-411-usb-lavalier-microphone/), [Logitech H540](https://www.logitech.com/ru-ru/product/usb-headset-h540)
 - Кирилл Полетаев: [Audio-Technica AT2020USB+](https://audio-technica.ru/catalog/mic/studio/at2020usb-plus/), [HyperX QuadCast HX-MICQC-BK](https://www.hyperxgaming.com/ru/microphone/quadcast-gaming-microphone)
+- Андрей Акиньшин [Rode Podcaster](http://rode.ru/podcaster/)
 
 ## Речевой этикет
 
