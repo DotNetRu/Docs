@@ -15,6 +15,7 @@
 - [Клиент Zoom](https://zoom.us/)
 - Необходима учетная запись в Zoom с возможностью стриминга (т.е. Pricing Plan от уровня Pro и выше)
 - Необходимо включить опцию "Custom Live Streaming Service":
+  
   ![Опция Custom Live Streaming Service](YouTube%20Streaming%20images/ZoomCustomLiveStreamingService.png)
 
 ##### YouTube
@@ -35,9 +36,14 @@
 2. Один из организаторов (обычно ***Помощник***) создаёт стрим в YouTube:
     - Зайти в [YouTube Studio](https://studio.youtube.com/)
     - Выбрать Create -> Go Live
+    
+    
       ![GoLive](YouTube%20Streaming%20images/GoLive.png)
+  
     - Выбрать Schedule Stream
+    
       ![GoLive](YouTube%20Streaming%20images/ScheduleStream.png)
+    
     - В появившемся окне можно выбрать один из прошлых стримов за основу или выбрать "Create New"
     - Заполняем информацию о встрече:
          - Title: <Пример: SpbDotNet №70. Иван Иванов "Доклад о программировании"> (автор и название можно скопировать из анонса). Если в митапе несколько докладов, то используется сокращённый вариант: <SpbDotNet №70>
@@ -53,7 +59,9 @@
 3. В день митапа все организаторы и ***Спикер*** заходят в митинг (*~40 мин. до начала*)
 4. ***Помощник*** настраивает трансляцию:
     - В [YouTube Studio](https://studio.youtube.com/) в разделе Content->Live находим трансляцию и выбираем "View in Live Control Room"
+
       ![GoLive](YouTube%20Streaming%20images/ViewInLiveControlRoom.png)
+
     - В разделе Stream Settings либо выбираем существующий streaming key (в выпадающем списке "Select stream key"), либо там же создаём новый.
     - В окне митинга Zoom выбираем More -> Live on Custom Live Streaming Service.
     - Откроется окно браузера. Заполняем поля:
