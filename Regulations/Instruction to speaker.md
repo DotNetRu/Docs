@@ -77,5 +77,5 @@
 
 ## См. таже
 
-- [JUG.RU Group «Memo for speakers»](https://wiki.jugru.org/display/SPEAKERS/Memo+for+speakers)
+- [JUG.RU Group «Memo for speakers»](https://wiki.jugru.org/pages/viewpage.action?pageId=95977515)
 - [Hadi Hariri «Public Speaking - Dealing with nerves»](https://hadihariri.com/2018/08/15/public-speaking-dealing-with-nerves/)
