@@ -35,7 +35,7 @@
 - Александр Кугушев: [Samson Meteor Mic](https://www.samsontech.ru/samson-goods/microfones/usb-mics/meteor.html), [Поп-фильтр](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BF-%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80)
 - Станислав Александров: [Behringer XM8500](https://behringer-russia.ru/product/behringer-ultravoice-xm8500/), [Focusrite Scarlett Solo 2nd Gen](https://focusrite.com/usb-audio-interface/scarlett/scarlett-solo), [Поп-фильтр](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BF-%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80)
 - Игорь Лабутин: [Rode NT-USB](http://rode.ru/nt-usb/),  [MAONO AU-410](https://www.maono.com/products/au410-usb-lavalier-micophone/)
-- Анатолий Кулаков: [MAONO AU-411](https://www.maono.com/products/au-411-usb-lavalier-microphone/), [Logitech H540](https://www.logitech.com/ru-ru/product/usb-headset-h540)
+- Анатолий Кулаков: [Rode NT-USB](http://rode.ru/nt-usb/), [MAONO AU-411](https://www.maono.com/products/au-411-usb-lavalier-microphone/), [Logitech H540](https://www.logitech.com/ru-ru/product/usb-headset-h540)
 - Кирилл Полетаев: [Audio-Technica AT2020USB+](https://audio-technica.ru/catalog/mic/studio/at2020usb-plus/), [HyperX QuadCast HX-MICQC-BK](https://www.hyperxgaming.com/ru/microphone/quadcast-gaming-microphone)
 - Андрей Акиньшин [Rode Podcaster](http://rode.ru/podcaster/)
 - Артём Акуляков [Rode Podcaster](http://rode.ru/podcaster/)
