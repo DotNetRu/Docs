@@ -80,3 +80,4 @@
 - [JUG.RU Group «Memo for speakers»](https://wiki.jugru.org/pages/viewpage.action?pageId=95977515)
 - [Hadi Hariri «Public Speaking - Dealing with nerves»](https://hadihariri.com/2018/08/15/public-speaking-dealing-with-nerves/)
 - [Роман Неволин «Как и зачем делать доклады?»](https://habr.com/ru/company/skbkontur/blog/577576/)
+- [Андрей Скворцов: публичные выступления «по Станиславскому»](https://www.youtube.com/watch?v=4DX5zS_6gvw)
